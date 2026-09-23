@@ -8,6 +8,10 @@
         "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.xthan.whoami.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.xthan.whoami.app-debug-35:/drawable_ic_launcher.png.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.xthan.whoami.app-main-37:/drawable/ic_launcher.png"
+    },
+    {
         "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.xthan.whoami.app-debug-35:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.xthan.whoami.app-pngs-31:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
