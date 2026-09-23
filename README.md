@@ -1,6 +1,8 @@
 # xWhoAmIx
 set persistent notifications indicating numerical device identifiers to more easily manage large quantities of Android devices next to each other  
 
+![tabss](samsung.png)  
+
 ![ic](icon.png)  
 
 ![dem](demo.png)  
