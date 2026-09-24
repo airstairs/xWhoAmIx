@@ -1,4 +1,4 @@
-hehbreboot now works for me but gotta delete snd reinstall new apk tested on Galaxy tab a11 + bht it tskes a few mins to show but worked twice for me
+hey reboot now works for me but gotta delete snd reinstall new apk tested on Galaxy tab a11 + bht it tskes a few mins to show but worked twice for me
 
 
 # xWhoAmIx
